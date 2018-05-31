@@ -1,30 +1,22 @@
 {
-  "name": "react-botui",
+  "name": "react-native-botui",
   "version": "1.0.0",
-  "description": "React wrapper for the Botui API",
-  "main": "Botui.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gabrielcolson/react-botui.git"
-  },
+  "description": "React Native made for Appmuseme,  wrapper for the Botui API",
+  "main": "ReactNativeBotui.js",
+  "scripts": {},
   "keywords": [
-    "React",
+    "React Native",
     "botui",
     "bot",
     "react.js",
-    "javascript"
+    "javascript",
+    "React"
   ],
-  "author": "Gabriel Colson",
+  "author": "Tin Chu",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gabrielcolson/react-botui/issues"
-  },
-  "homepage": "https://github.com/gabrielcolson/react-botui#readme",
   "dependencies": {
     "botui": "^0.3.4",
-    "react": "^16.3.2"
+    "react": "^16.3.2",
+    "react-native": "^0.55.4"
   }
 }

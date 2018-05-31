@@ -1,2 +1,3 @@
-# react-botui
-React wrapper for the BotUI API 
+# react-native-botui
+
+React Native for Appmuseme, wrapper for the BotUI API
